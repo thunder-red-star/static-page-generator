@@ -1,10 +1,10 @@
-/ Metadata \
+// Metadata
 
 Title: My first static file!
 Description: Some free content as proof of concept.
 
-/ Content \
+// Content
 
--> Title
+> Website header
 Hello world. This is supposed to be a static page. Isn't that fun? Wow, this is really some fun placeholder text. Amazing stuff right? Lorem Ipsum is trash compared to this. This is byte gold. This is stuff you could capitalize on. Yum.
 I **don't like** java. But I *have* to learn it. Too bad :(
